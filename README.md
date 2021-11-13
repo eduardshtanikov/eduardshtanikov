@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @eduardshtanikov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-eduardshtanikov/eduardshtanikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Eduard
+- 👀 I’m interested in active sport
+- 🌱 I’m currently learning software testing
